@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github-finder/static/css/main.6105098f.css",
-    "main.js": "/github-finder/static/js/main.0c6880e3.js",
+    "main.js": "/github-finder/static/js/main.b7bfc6ce.js",
     "static/media/icon-sun.svg": "/github-finder/static/media/icon-sun.c3177fa453380a8147df081ec10c2789.svg",
     "static/media/icon-website.svg": "/github-finder/static/media/icon-website.cf4904e442232792159e0e1bd2d500aa.svg",
     "static/media/icon-company.svg": "/github-finder/static/media/icon-company.6331bb91a37d52462978487317f0c6e9.svg",
@@ -11,10 +11,10 @@
     "static/media/icon-search.svg": "/github-finder/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
     "static/media/icon-location.svg": "/github-finder/static/media/icon-location.f6d18983ab4be8b3314d51c208fba4d4.svg",
     "main.6105098f.css.map": "/github-finder/static/css/main.6105098f.css.map",
-    "main.0c6880e3.js.map": "/github-finder/static/js/main.0c6880e3.js.map"
+    "main.b7bfc6ce.js.map": "/github-finder/static/js/main.b7bfc6ce.js.map"
   },
   "entrypoints": [
     "static/css/main.6105098f.css",
-    "static/js/main.0c6880e3.js"
+    "static/js/main.b7bfc6ce.js"
   ]
 }
