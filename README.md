@@ -4,7 +4,7 @@
 
 Используя это приложение вы можете найти любого пользователя GitHub и посмотреть основную информацию о нем. Информация о пользователях получена с помощью GitHub REST API
 
-**Стек:** React, TypeScript, CSS
+**Стек:** React, TypeScript, SCSS
 
 **Как использовать:**
 1) Перейдите на сайт https://ivandavidyuk.github.io/github-finder/
